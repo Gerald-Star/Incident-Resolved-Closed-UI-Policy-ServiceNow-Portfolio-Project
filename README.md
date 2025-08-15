@@ -71,7 +71,7 @@ Unlike Business Rules, UI Policies apply **before saving data**, enhancing user 
 - **Reverse if false:** Enabled (fields revert to editable when state changes away from Resolved/Closed)
 - **On Load:** Enabled (triggers both on load and on change)
 
-**Screenshot – UI Policy Condition Setup:**
+**Screenshot – UI Policy Condition Setup: Resolved or Closed**
 ![UI Policy Condition - Resolved or Closed](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/1%20main%20State%20is%20Resoved%20or%20Closed.png?raw=true)
 
 ---
@@ -84,7 +84,7 @@ Unlike Business Rules, UI Policies apply **before saving data**, enhancing user 
   - Displays “Please complete all mandatory fields before saving this incident.”
   - Alerts the user if they attempt to save without completing required fields.
 
-**Screenshot – UI Policy Action Setup:**
+**Screenshot – UI Policy Action Setup: Urgency, Impact, Resolved by**
 ![UI Policy Actions - Urgency, Impact, Resolved by](3%20UI%20Policy%20Action%20showing%20Urgency%20etc.png)
 
 ---
