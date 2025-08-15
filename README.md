@@ -26,7 +26,6 @@ The goal was to configure a UI Policy that triggers when an **Incident** is mark
 
 ---
 
-## Objectives
 - Prevent post-resolution changes to priority-related fields.
 - Ensure accountability by mandating the **Resolved By** field.
 - Provide real-time, contextual guidance to users.
@@ -73,7 +72,7 @@ Unlike Business Rules, UI Policies apply **before saving data**, enhancing user 
 - **On Load:** Enabled (triggers both on load and on change)
 
 **Screenshot – UI Policy Condition Setup:**
-![UI Policy Condition - Resolved or Closed](1%20main%20State%20is%20Resoved%20or%20Closed.png)
+![UI Policy Condition - Resolved or Closed](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/1%20main%20State%20is%20Resoved%20or%20Closed.png?raw=true)
 
 ---
 
