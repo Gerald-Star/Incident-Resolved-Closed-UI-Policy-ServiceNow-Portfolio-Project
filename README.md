@@ -85,7 +85,7 @@ Unlike Business Rules, UI Policies apply **before saving data**, enhancing user 
   - Alerts the user if they attempt to save without completing required fields.
 
 **Screenshot – UI Policy Action Setup: Urgency, Impact, Resolved by**
-![UI Policy Actions - Urgency, Impact, Resolved by](3%20UI%20Policy%20Action%20showing%20Urgency%20etc.png)
+![UI Policy Actions - Urgency, Impact, Resolved by](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/7%20Two%20more%20Policy%20Action-Resolved%20by%20and%20impact.png?raw=true)
 
 ---
 
