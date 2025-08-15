@@ -130,8 +130,8 @@ In addition to controlling **Urgency**, the UI Policy also applies rules to the 
   - Knowledge base linkage
 - **User Experience:** If a user tries to save the record without completing this field, an **information message** alerts them to the missing requirement.
 
-**Screenshot – Policy Action: Resolved by set Mandatory to True**  
-![UI Policy Action - Resolved by](resolved_by_screenshot.png)
+**Screenshot – Policy Action: Resolved by setting Mandatory to True**  
+![UI Policy Action - Resolved by](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/6%20Adding%20Policy%20Action%20Resolved%20By.png?raw=true)
 
 ---
 
