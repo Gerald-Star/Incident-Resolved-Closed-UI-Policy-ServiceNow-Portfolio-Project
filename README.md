@@ -8,6 +8,8 @@ The goal was to configure a UI Policy that triggers when an **Incident** is mark
 The UI policy ensures that specific fields are either locked (read-only) or made mandatory to maintain data integrity before resolution.
 - Enhance compliance with **ITIL-aligned Incident Management** processes.
 ---
+![Incident /Resolved Closed UI Policy](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/Banner%20.png?raw=true)
+---
 ##  Skills Demonstrated
 - **ServiceNow ITSM Configuration** – UI Policy creation, field control, and user guidance.
 - **ITIL Knowledge** – State-driven process compliance.
