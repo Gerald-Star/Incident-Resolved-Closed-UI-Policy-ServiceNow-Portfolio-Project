@@ -110,6 +110,10 @@ In addition to controlling **Urgency**, the UI Policy also applies rules to the 
 ![UI Policy Action - Urgency](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/2%20Add%20UI%20Policy%20Action.png?raw=true)  
 
 ---
+**Screenshot - UI Policy Action set to Read only**
+![UI Policy Action - set to Read only](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/3%20UI%20Policy%20Action%20showing%20Urgency%20etc.png?raw=true)
+
+---
 
 #### 2. Resolved by (Mandatory)
 - **Field:** `Resolved by`
