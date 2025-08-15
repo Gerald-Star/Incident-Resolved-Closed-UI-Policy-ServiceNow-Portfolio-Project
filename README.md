@@ -107,7 +107,7 @@ In addition to controlling **Urgency**, the UI Policy also applies rules to the 
 - **Purpose:** Locks urgency to preserve original priority level for SLA and reporting.
 
 **Screenshot – Policy Action: Urgency**  
-![UI Policy Action - Urgency](resolved_by_screenshot.png)  
+![UI Policy Action - Urgency](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/2%20Add%20UI%20Policy%20Action.png?raw=true)  
 
 ---
 
@@ -124,7 +124,7 @@ In addition to controlling **Urgency**, the UI Policy also applies rules to the 
   - Knowledge base linkage
 - **User Experience:** If a user tries to save the record without completing this field, an **information message** alerts them to the missing requirement.
 
-**Screenshot – Policy Action: Resolved by**  
+**Screenshot – Policy Action: Resolved by set Mandatory to True**  
 ![UI Policy Action - Resolved by](resolved_by_screenshot.png)
 
 ---
