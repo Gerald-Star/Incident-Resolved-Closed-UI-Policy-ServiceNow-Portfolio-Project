@@ -192,7 +192,7 @@ function onCondition() {
 }
 ```
 
-![Second Scripting-Execute if false]()
+![Second Scripting-Execute if false](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/10%20run%20script%20false.png?raw=true)
 ### Testing Incident Use Case
 **Steps:**
 
