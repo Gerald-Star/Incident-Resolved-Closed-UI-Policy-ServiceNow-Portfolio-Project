@@ -191,24 +191,26 @@ function onCondition() {
 }
 ```
 
-### Testing
+### Testing Incident Use Case
 **Steps:**
 
-Impersonate "Abel Tutor" – Simulates a user with permission to set State to Resolved.
+**Impersonate "Abel Tutor" – Simulates a user with permission to set State to Resolved.**
 
 Open an Incident Record.
 
 Change State to Resolved.
 
-**Verify:**
+**Verify Effect:**
 
 Urgency and Impact become read-only.
 
 Resolved By becomes mandatory.
 
-Info message appears if mandatory fields are missing upon save.
+An info message appears if mandatory fields are missing upon save.
 
-Change State back to a non-resolved state.
+If the state changes back (eg, In Progress), messages are cleared. 
+
+Change the State back to a non-resolved state.
 
 **Confirm that:**
 
