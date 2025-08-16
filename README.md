@@ -180,6 +180,7 @@ function onCondition() {
 
 ```
 
+![First Scritpting with no Execute if false](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/8%20Run%20Scripto%20to%20execute%20when%20condition%20is%20true.png?raw=true)
 
 ### onCondition() Script – False
 **Purpose:**
@@ -191,6 +192,7 @@ function onCondition() {
 }
 ```
 
+![Second Scripting-Execute if false]()
 ### Testing Incident Use Case
 **Steps:**
 
