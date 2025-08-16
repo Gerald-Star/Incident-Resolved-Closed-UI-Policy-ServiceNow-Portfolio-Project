@@ -141,7 +141,7 @@ In addition to controlling **Urgency**, the UI Policy also applies rules to the 
 - **ITIL Relevance:** The impact level should reflect the state of the incident at the time it was addressed, which is crucial for trend analysis and SLA reporting.
 
 **Screenshot – Policy Action: Impact**  
-![UI Policy Action - Impact](impact_screenshot.png)
+![UI Policy Actions - Impact](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/7%20Two%20more%20Policy%20Action-Resolved%20by%20and%20impact.png?raw=true)
 
 ---
 
