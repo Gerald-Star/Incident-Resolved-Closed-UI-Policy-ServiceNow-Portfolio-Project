@@ -1,4 +1,5 @@
-# Incident Resolved/Closed UI Policy with Client-Side API – ServiceNow Portfolio Project.
+
+# ServiceNow Incident Management: UI Policy for Resolving and Closing Incidents via Client-Side API
 
 
 ## Project Overview
