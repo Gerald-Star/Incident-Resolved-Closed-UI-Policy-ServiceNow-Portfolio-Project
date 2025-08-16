@@ -216,7 +216,7 @@ If the state changes back (eg, In Progress), messages are cleared.
 
 Change the State back to a non-resolved state.
 
-
+![Incident Resolved - In Progress](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/11%20After%20setting%20script%20false%20you%20can%20select%20state%20In%20progress%20with%20no%20infoMessage%20appearing.png?raw=true)
 
 **Confirm that:**
 
