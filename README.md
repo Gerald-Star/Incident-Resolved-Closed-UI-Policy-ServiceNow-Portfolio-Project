@@ -183,7 +183,7 @@ function onCondition() {
 
 ### onCondition() Script – False
 **Purpose:**
-When the state is changed away from Resolved or Closed, clears any previously displayed information messages.
+When the state is changed away from Resolved or Closed, it clears any previously displayed information messages.
 
 ```javascript
 function onCondition() {
@@ -202,6 +202,8 @@ Change State to Resolved.
 
 **Verify Effect:**
 
+![State:Resolved/Closed](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/State%20Resolved%20Closed.png?raw=true)
+
 Urgency and Impact become read-only.
 
 Resolved By becomes mandatory.
@@ -211,6 +213,8 @@ An info message appears if mandatory fields are missing upon save.
 If the state changes back (eg, In Progress), messages are cleared. 
 
 Change the State back to a non-resolved state.
+
+
 
 **Confirm that:**
 
