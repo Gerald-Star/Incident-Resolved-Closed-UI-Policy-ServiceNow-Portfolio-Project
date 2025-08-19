@@ -4,10 +4,11 @@
 
 ## Project Overview
 This project demonstrates my ability to **design, implement, test, and debug UI Policies** in ServiceNow, applying ITIL-aligned Incident Management practices.  
-The goal was to configure a UI Policy that triggers when an **Incident** is marked as *Resolved* or *Closed*, ensuring **data completeness, field control, and user guidance** before resolution.
+The goal is to demonstrate and configure a UI Policy that triggers when an **Incident** is marked as *Resolved* or *Closed*, ensuring **data completeness, field control, and user guidance** before resolution.
 - Demonstrates UI Policy Actions triggered when an incident’s State is set to Resolved or Closed.
 The UI policy ensures that specific fields are either locked (read-only) or made mandatory to maintain data integrity before resolution.
 - Enhance compliance with **ITIL-aligned Incident Management** processes.
+- Displays an Information Message prompting the user if they miss a mandatory field, only after they attempt to save.
 ---
 ![Incident /Resolved Closed UI Policy](https://github.com/Gerald-Star/Incident-Resolved-Closed-UI-Policy-ServiceNow-Portfolio-Project/blob/main/Banner%20.png?raw=true)
 ---
